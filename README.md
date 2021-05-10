@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Design Patterns, C#, Python, Arduino**
 
-- 📫 How to reach me **ricardu12345@gmail.com**
+- 📫 How to reach me → **ricardu12345@gmail.com**
 
-- ⚡ Fun fact **I developed a passion for technology in general after getting electrocuted disassembling a hair dryer**
+- ⚡ Fun fact 👽 **I developed a passion for technology in general after getting electrocuted disassembling a hair dryer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
