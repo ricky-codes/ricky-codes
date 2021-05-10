@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rickysaysfuck" target="blank">&lt;Instagram/&lt; 🌲"</a>
+<a href="https://instagram.com/rickysaysfuck" target="blank">&lt;Instagram/&gt; 🌲</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
