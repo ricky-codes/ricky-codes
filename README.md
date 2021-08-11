@@ -28,4 +28,3 @@
   
   
   ![Snake animation](https://github.com/ricky-codes/ricky-codes/blob/output/github-contribution-grid-snake.svg)
-  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
